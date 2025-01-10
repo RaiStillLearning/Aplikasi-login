@@ -3,6 +3,6 @@ sebuah aplikasi dengan fitur login
 
 
 alur login
--menambahkan email dan password
--validasi email dan password
--menampilkan halaman beranda
+1.menambahkan email dan password
+2.validasi email dan password
+3.menampilkan halaman home
